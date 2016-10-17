@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: e8b1e01d7f88f93429106948bd31cf8a
+timeCreated: 1476293278
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JSM-Assets_0
+    21300002: JSM-Assets_1
+    21300004: JSM-Assets_2
+    21300006: JSM-Assets_3
+    21300008: JSM-Assets_4
+    21300010: JSM-Assets_5
+    21300012: JSM-Assets_6
+    21300014: JSM-Assets_7
+    21300016: JSM-Assets_8
+    21300018: JSM-Assets_9
+    21300020: JSM-Assets_10
+    21300022: JSM-Assets_11
+    21300024: JSM-Assets_12
+    21300026: JSM-Assets_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JSM-Assets_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1966
+        width: 165
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 23.5}
+        - {x: -82.5, y: 13.5}
+        - {x: -82.5, y: -13.5}
+        - {x: -77.5, y: -22.5}
+        - {x: -36.5, y: -23.5}
+        - {x: 82.5, y: -23.5}
+        - {x: 82.5, y: 23.5}
+    - name: JSM-Assets_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1800
+        width: 152
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 103.5}
+        - {x: 32, y: 115.5}
+        - {x: -14, y: 115.5}
+        - {x: -51, y: 104.5}
+        - {x: -76, y: 62.5}
+        - {x: -76, y: 8.5}
+        - {x: -72, y: -115.5}
+        - {x: 66, y: -115.5}
+        - {x: 66, y: -73.5}
+        - {x: 76, y: -36.5}
+        - {x: 76, y: 68.5}
+    - name: JSM-Assets_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1645
+        width: 218
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -191.5}
+        - {x: 109, y: -191.5}
+        - {x: 109, y: 165.5}
+        - {x: 103, y: 171.5}
+        - {x: 90, y: 178.5}
+        - {x: 83, y: 181.5}
+        - {x: 74, y: 184.5}
+        - {x: 63, y: 187.5}
+        - {x: 59, y: 188.5}
+        - {x: 54, y: 189.5}
+        - {x: 41, y: 191.5}
+        - {x: -40, y: 191.5}
+        - {x: -47, y: 190.5}
+        - {x: -58, y: 188.5}
+        - {x: -70, y: 185.5}
+        - {x: -73, y: 184.5}
+        - {x: -87, y: 179.5}
+        - {x: -98, y: 174.5}
+        - {x: -104, y: 169.5}
+        - {x: -109, y: 164.5}
+        - {x: -109, y: -191.5}
+        - {x: -75, y: -191.5}
+        - {x: -75, y: -149.5}
+        - {x: 75, y: -149.5}
+    - name: JSM-Assets_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1333
+        width: 940
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -470, y: 344}
+        - {x: -470, y: -344}
+        - {x: 470, y: -344}
+        - {x: 470, y: 344}
+    - name: JSM-Assets_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1591
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141, y: 141}
+        - {x: -141, y: -141}
+        - {x: 141, y: -141}
+        - {x: 141, y: 141}
+    - name: JSM-Assets_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 542
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: -110.5}
+        - {x: 149, y: -40.5}
+        - {x: 158, y: -30.5}
+        - {x: 184, y: 7.5}
+        - {x: 194, y: 59.5}
+        - {x: 223, y: 52.5}
+        - {x: 229, y: 40.5}
+        - {x: 260, y: 44.5}
+        - {x: 271, y: 62.5}
+        - {x: 271, y: 84.5}
+        - {x: 265, y: 105.5}
+        - {x: 260, y: 120.5}
+        - {x: 247, y: 132.5}
+        - {x: 225, y: 142.5}
+        - {x: 190, y: 150.5}
+        - {x: -190, y: 150.5}
+        - {x: -220, y: 142.5}
+        - {x: -238, y: 136.5}
+        - {x: -244, y: 122.5}
+        - {x: -258, y: 115.5}
+        - {x: -267, y: 105.5}
+        - {x: -271, y: 84.5}
+        - {x: -271, y: 59.5}
+        - {x: -256, y: 44.5}
+        - {x: -229, y: 40.5}
+        - {x: -201, y: 59.5}
+        - {x: -197, y: 44.5}
+        - {x: -174, y: 1.5}
+        - {x: -169, y: -24.5}
+        - {x: -155, y: -51.5}
+        - {x: -143, y: -62.5}
+        - {x: -123, y: -72.5}
+        - {x: -102, y: -95.5}
+        - {x: -80, y: -109.5}
+        - {x: -57, y: -132.5}
+        - {x: -42, y: -143.5}
+        - {x: -31, y: -150.5}
+        - {x: 1, y: -150.5}
+        - {x: 20, y: -144.5}
+        - {x: 42, y: -132.5}
+        - {x: 70, y: -111.5}
+    - name: JSM-Assets_6
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 935
+        width: 407
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -203.5, y: 165}
+        - {x: -203.5, y: -165}
+        - {x: 203.5, y: -165}
+        - {x: 203.5, y: 165}
+    - name: JSM-Assets_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 785
+        width: 541
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: -49.5}
+        - {x: 119.5, y: -53.5}
+        - {x: 270.5, y: -65.5}
+        - {x: 270.5, y: -57.5}
+        - {x: 112.5, y: 45.5}
+        - {x: 211.5, y: 170.5}
+        - {x: 209.5, y: 177.5}
+        - {x: 183.5, y: 167.5}
+        - {x: 58.5, y: 109.5}
+        - {x: 39.5, y: 128.5}
+        - {x: -17.5, y: 226.5}
+        - {x: -23.5, y: 226.5}
+        - {x: -28.5, y: 218.5}
+        - {x: -31.5, y: 211.5}
+        - {x: -60.5, y: 154.5}
+        - {x: -206.5, y: 218.5}
+        - {x: -220.5, y: 217.5}
+        - {x: -150.5, y: 141.5}
+        - {x: -197.5, y: 136.5}
+        - {x: -148.5, y: 73.5}
+        - {x: -177.5, y: 35.5}
+        - {x: -239.5, y: 20.5}
+        - {x: -245.5, y: 12.5}
+        - {x: -200.5, y: -8.5}
+        - {x: -163.5, y: -46.5}
+        - {x: -230.5, y: -112.5}
+        - {x: -270.5, y: -152.5}
+        - {x: -270.5, y: -161.5}
+        - {x: -269.5, y: -162.5}
+        - {x: -263.5, y: -162.5}
+        - {x: -248.5, y: -159.5}
+        - {x: -197.5, y: -149.5}
+        - {x: -139.5, y: -136.5}
+        - {x: -110.5, y: -195.5}
+        - {x: -105.5, y: -198.5}
+        - {x: -102.5, y: -199.5}
+        - {x: -31.5, y: -153.5}
+        - {x: -0.5, y: -226.5}
+        - {x: 8.5, y: -226.5}
+        - {x: 69.5, y: -117.5}
+        - {x: 123.5, y: -159.5}
+        - {x: 123.5, y: -148.5}
+    - name: JSM-Assets_8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 848
+        width: 268
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: -123}
+        - {x: 127, y: 90}
+        - {x: 134, y: 89}
+        - {x: 134, y: 132}
+        - {x: 133, y: 146}
+        - {x: 124, y: 170}
+        - {x: 79, y: 170}
+        - {x: 72, y: 157}
+        - {x: 72, y: 130}
+        - {x: 63, y: 155}
+        - {x: 57, y: 170}
+        - {x: 14, y: 170}
+        - {x: 7, y: 157}
+        - {x: 7, y: 130}
+        - {x: -2, y: 155}
+        - {x: -8, y: 170}
+        - {x: -51, y: 170}
+        - {x: -58, y: 157}
+        - {x: -58, y: 130}
+        - {x: -67, y: 155}
+        - {x: -73, y: 170}
+        - {x: -116, y: 170}
+        - {x: -123, y: 157}
+        - {x: -133, y: 130}
+        - {x: -134, y: 125}
+        - {x: -134, y: 62}
+        - {x: -125, y: 38}
+        - {x: -123, y: -133}
+        - {x: -134, y: -133}
+        - {x: -134, y: -164}
+        - {x: -125, y: -170}
+        - {x: 131, y: -170}
+        - {x: 134, y: -168}
+        - {x: 134, y: -128}
+      - - {x: -28, y: -117}
+        - {x: -30, y: -119}
+        - {x: -30, y: -122}
+        - {x: -28, y: -124}
+        - {x: -27, y: -124}
+        - {x: -24, y: -121}
+        - {x: -24, y: -119}
+        - {x: -26, y: -117}
+    - name: JSM-Assets_9
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 73
+        width: 260
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 411.5}
+        - {x: -2, y: 409.5}
+        - {x: -2, y: 408.5}
+        - {x: -5, y: 405.5}
+        - {x: -5, y: 404.5}
+        - {x: -12, y: 397.5}
+        - {x: -12, y: 396.5}
+        - {x: -15, y: 393.5}
+        - {x: -15, y: 392.5}
+        - {x: -22, y: 385.5}
+        - {x: -22, y: 384.5}
+        - {x: -27, y: 379.5}
+        - {x: -29, y: 378.5}
+        - {x: -29, y: 376.5}
+        - {x: -32, y: 373.5}
+        - {x: -32, y: 372.5}
+        - {x: -36, y: 369.5}
+        - {x: -37, y: 367.5}
+        - {x: -39, y: 366.5}
+        - {x: -39, y: 364.5}
+        - {x: -42, y: 361.5}
+        - {x: -42, y: 360.5}
+        - {x: -49, y: 353.5}
+        - {x: -49, y: 352.5}
+        - {x: -52, y: 349.5}
+        - {x: -52, y: 348.5}
+        - {x: -59, y: 341.5}
+        - {x: -59, y: 340.5}
+        - {x: -62, y: 337.5}
+        - {x: -62, y: 336.5}
+        - {x: -69, y: 329.5}
+        - {x: -69, y: 328.5}
+        - {x: -73, y: 325.5}
+        - {x: -77, y: 320.5}
+        - {x: -77, y: 319.5}
+        - {x: -80, y: 316.5}
+        - {x: -80, y: 315.5}
+        - {x: -83, y: 313.5}
+        - {x: -87, y: 308.5}
+        - {x: -87, y: 307.5}
+        - {x: -90, y: 304.5}
+        - {x: -90, y: 303.5}
+        - {x: -97, y: 296.5}
+        - {x: -97, y: 295.5}
+        - {x: -100, y: 292.5}
+        - {x: -100, y: 291.5}
+        - {x: -107, y: 284.5}
+        - {x: -107, y: 283.5}
+        - {x: -112, y: 278.5}
+        - {x: -114, y: 277.5}
+        - {x: -114, y: 275.5}
+        - {x: -117, y: 272.5}
+        - {x: -117, y: 271.5}
+        - {x: -122, y: 266.5}
+        - {x: -124, y: 265.5}
+        - {x: -124, y: 263.5}
+        - {x: -130, y: 257.5}
+        - {x: -130, y: 250.5}
+        - {x: -64, y: 250.5}
+        - {x: -64, y: 11.5}
+        - {x: -82, y: 11.5}
+        - {x: -84, y: 9.5}
+        - {x: -84, y: -410.5}
+        - {x: -83, y: -411.5}
+        - {x: 130, y: -411.5}
+        - {x: 130, y: 411.5}
+    - name: JSM-Assets_10
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 73
+        width: 622
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -311, y: 411.5}
+        - {x: -311, y: -411.5}
+        - {x: 311, y: -411.5}
+        - {x: 311, y: 411.5}
+    - name: JSM-Assets_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 474
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 236, y: -345}
+        - {x: 237, y: -344}
+        - {x: 237, y: 345}
+        - {x: -237, y: 345}
+        - {x: -237, y: -345}
+    - name: JSM-Assets_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 20
+        width: 271
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -291}
+        - {x: 29.5, y: -288}
+        - {x: 37.5, y: -280}
+        - {x: 40.5, y: -247}
+        - {x: 40.5, y: -224}
+        - {x: 29.5, y: -199}
+        - {x: 21.5, y: -182}
+        - {x: 21.5, y: -147}
+        - {x: 30.5, y: -121}
+        - {x: 33.5, y: -107}
+        - {x: 34.5, y: -49}
+        - {x: 40.5, y: -41}
+        - {x: 45.5, y: -27}
+        - {x: 44.5, y: -15}
+        - {x: 36.5, y: -2}
+        - {x: 34.5, y: 10}
+        - {x: 35.5, y: 23}
+        - {x: 47.5, y: 49}
+        - {x: 49.5, y: 66}
+        - {x: 47.5, y: 78}
+        - {x: 40.5, y: 99}
+        - {x: 41.5, y: 137}
+        - {x: 44.5, y: 181}
+        - {x: 41.5, y: 196}
+        - {x: 48.5, y: 221}
+        - {x: 54.5, y: 254}
+        - {x: 71.5, y: 254}
+        - {x: 87.5, y: 248}
+        - {x: 94.5, y: 238}
+        - {x: 102.5, y: 238}
+        - {x: 122.5, y: 242}
+        - {x: 135.5, y: 260}
+        - {x: 135.5, y: 279}
+        - {x: 132.5, y: 286}
+        - {x: 125.5, y: 307}
+        - {x: 122.5, y: 312}
+        - {x: 106.5, y: 307}
+        - {x: 105.5, y: 313}
+        - {x: 103.5, y: 329}
+        - {x: 83.5, y: 337}
+        - {x: 57.5, y: 345}
+        - {x: -135.5, y: 345}
+        - {x: -135.5, y: -344}
+        - {x: -130.5, y: -345}
+        - {x: -109.5, y: -345}
+        - {x: -58.5, y: -344}
+        - {x: -20.5, y: -308}
+        - {x: -13.5, y: -300}
+    - name: JSM-Assets_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 234
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 24}
+        - {x: -25, y: 24}
+        - {x: -33, y: 17}
+        - {x: -33, y: -14}
+        - {x: -23, y: -24}
+        - {x: 6, y: -24}
+        - {x: 33, y: -8}
+        - {x: 33, y: 11}
+        - {x: 30, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
